@@ -1,32 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" role="img" aria-label="Philip Oh — Product Engineer, Front-End Architecture">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#1E1B4B"/>
-    </linearGradient>
-    <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="548" y1="0" x2="815" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#6C8EF5"/>
-      <stop offset="1" stop-color="#A78BFA"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.78" cy="0.5" r="0.45">
-      <stop offset="0" stop-color="#6C8EF5" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#6C8EF5" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="Philip Oh — Product Engineer, front-end architecture for contact center SaaS and AI voice">
   <style>
-    .b { fill:url(#wave); transform-box:fill-box; transform-origin:center; animation-name:pulse; animation-iteration-count:infinite; animation-timing-function:ease-in-out; animation-direction:alternate; }
-    @keyframes pulse { from { transform:scaleY(0.3); } to { transform:scaleY(1); } }
-    .dot { animation:blink 1.6s ease-in-out infinite; }
-    @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:0.25; } }
-    .f { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+    .sans { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; }
+    .mono { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; }
+    .fg { fill:#1F2328; }
+    .muted { fill:#59636E; }
+    .line { stroke:#D1D9E0; }
+    .accent { stroke:#0969DA; }
+    .dot { fill:#0969DA; }
+    .wave { transform-box:fill-box; transform-origin:center; animation:breathe 2.8s ease-in-out infinite alternate; }
+    @keyframes breathe { from { transform:scaleY(0.45); } to { transform:scaleY(1); } }
+    @media (prefers-color-scheme: dark) {
+      .fg { fill:#E6EDF3; }
+      .muted { fill:#9198A1; }
+      .line { stroke:#3D444D; }
+      .accent { stroke:#4493F8; }
+      .dot { fill:#4493F8; }
+    }
   </style>
-  <rect width="840" height="200" rx="16" fill="url(#bg)"/>
-  <rect width="840" height="200" rx="16" fill="url(#glow)"/>
-  <circle class="dot" cx="48" cy="52" r="4" fill="#22C55E"/>
-  <text class="f" x="60" y="56" font-size="12" font-weight="600" fill="#94A3B8" letter-spacing="1.5">ON AIR · REAL-TIME</text>
-  <text class="f" x="40" y="104" font-size="40" font-weight="800" fill="#F8FAFC">Philip Oh</text>
-  <text class="f" x="40" y="134" font-size="16" font-weight="600" fill="#CBD5E1">Product Engineer · Front-End Architecture</text>
-  <text class="f" x="40" y="160" font-size="13" fill="#64748B">Multi-Tenant Contact Center SaaS &amp; AI Voice Platforms</text>
-  <rect class="b" x="548.0" y="66.0" width="5" height="68" rx="2.5" style="animation-duration:1.56s;animation-delay:-0.59s"/><rect class="b" x="558.5" y="91.0" width="5" height="18" rx="2.5" style="animation-duration:0.95s;animation-delay:-0.8s"/><rect class="b" x="569.0" y="66.0" width="5" height="68" rx="2.5" style="animation-duration:1.31s;animation-delay:-1.36s"/><rect class="b" x="579.5" y="78.0" width="5" height="44" rx="2.5" style="animation-duration:0.93s;animation-delay:-0.65s"/><rect class="b" x="590.0" y="87.0" width="5" height="26" rx="2.5" style="animation-duration:1.07s;animation-delay:-0.83s"/><rect class="b" x="600.5" y="91.0" width="5" height="18" rx="2.5" style="animation-duration:1.48s;animation-delay:-0.19s"/><rect class="b" x="611.0" y="78.0" width="5" height="44" rx="2.5" style="animation-duration:1.34s;animation-delay:-0.87s"/><rect class="b" x="621.5" y="91.0" width="5" height="18" rx="2.5" style="animation-duration:1.3s;animation-delay:-0.6s"/><rect class="b" x="632.0" y="78.0" width="5" height="44" rx="2.5" style="animation-duration:0.93s;animation-delay:-1.29s"/><rect class="b" x="642.5" y="72.0" width="5" height="56" rx="2.5" style="animation-duration:1.19s;animation-delay:-0.81s"/><rect class="b" x="653.0" y="89.0" width="5" height="22" rx="2.5" style="animation-duration:1.12s;animation-delay:-1.22s"/><rect class="b" x="663.5" y="83.0" width="5" height="34" rx="2.5" style="animation-duration:0.97s;animation-delay:-0.86s"/><rect class="b" x="674.0" y="78.0" width="5" height="44" rx="2.5" style="animation-duration:1.16s;animation-delay:-0.82s"/><rect class="b" x="684.5" y="87.0" width="5" height="26" rx="2.5" style="animation-duration:1.3s;animation-delay:-0.93s"/><rect class="b" x="695.0" y="80.0" width="5" height="40" rx="2.5" style="animation-duration:1.38s;animation-delay:-0.64s"/><rect class="b" x="705.5" y="66.0" width="5" height="68" rx="2.5" style="animation-duration:1.23s;animation-delay:-1.39s"/><rect class="b" x="716.0" y="66.0" width="5" height="68" rx="2.5" style="animation-duration:1.11s;animation-delay:-1.19s"/><rect class="b" x="726.5" y="78.0" width="5" height="44" rx="2.5" style="animation-duration:0.96s;animation-delay:-0.45s"/><rect class="b" x="737.0" y="80.0" width="5" height="40" rx="2.5" style="animation-duration:1.51s;animation-delay:-1.09s"/><rect class="b" x="747.5" y="72.0" width="5" height="56" rx="2.5" style="animation-duration:1.33s;animation-delay:-0.11s"/><rect class="b" x="758.0" y="85.0" width="5" height="30" rx="2.5" style="animation-duration:1.19s;animation-delay:-1.14s"/><rect class="b" x="768.5" y="83.0" width="5" height="34" rx="2.5" style="animation-duration:1.55s;animation-delay:-0.63s"/><rect class="b" x="779.0" y="87.0" width="5" height="26" rx="2.5" style="animation-duration:1.44s;animation-delay:-0.86s"/><rect class="b" x="789.5" y="66.0" width="5" height="68" rx="2.5" style="animation-duration:1.14s;animation-delay:-0.53s"/><rect class="b" x="800.0" y="80.0" width="5" height="40" rx="2.5" style="animation-duration:1.31s;animation-delay:-0.68s"/><rect class="b" x="810.5" y="87.0" width="5" height="26" rx="2.5" style="animation-duration:1.56s;animation-delay:-0.71s"/>
+  <text class="mono muted" x="40" y="46" font-size="12" letter-spacing="2">PRODUCT ENGINEER</text>
+  <text class="sans fg" x="38" y="92" font-size="38" font-weight="700" letter-spacing="-0.5">Philip Oh</text>
+  <text class="sans muted" x="40" y="120" font-size="15">Front-end architecture for contact center SaaS &amp; AI voice</text>
+  <line class="line" x1="40" y1="150" x2="548" y2="150" stroke-width="1.2"/>
+  <line class="line" x1="752" y1="150" x2="800" y2="150" stroke-width="1.2"/>
+  <path class="accent wave" d="M548.0,150.0 L549.3,150.0 L550.5,149.9 L551.8,149.8 L553.1,149.7 L554.4,149.6 L555.6,149.5 L556.9,149.5 L558.2,149.7 L559.5,150.0 L560.8,150.5 L562.0,151.0 L563.3,151.5 L564.6,151.9 L565.9,152.1 L567.1,152.0 L568.4,151.5 L569.7,150.8 L571.0,149.8 L572.2,148.6 L573.5,147.5 L574.8,146.7 L576.0,146.2 L577.3,146.1 L578.6,146.6 L579.9,147.6 L581.1,149.0 L582.4,150.5 L583.7,152.1 L585.0,153.5 L586.2,154.4 L587.5,154.8 L588.8,154.6 L590.1,153.8 L591.4,152.5 L592.6,150.9 L593.9,149.3 L595.2,147.7 L596.5,146.5 L597.7,145.8 L599.0,145.6 L600.3,146.0 L601.5,146.9 L602.8,148.1 L604.1,149.4 L605.4,150.7 L606.6,151.8 L607.9,152.6 L609.2,153.0 L610.5,153.0 L611.8,152.6 L613.0,151.9 L614.3,151.1 L615.6,150.3 L616.9,149.5 L618.1,148.9 L619.4,148.4 L620.7,148.2 L622.0,148.3 L623.2,148.5 L624.5,148.8 L625.8,149.3 L627.0,149.9 L628.3,150.4 L629.6,151.0 L630.9,151.5 L632.1,151.8 L633.4,152.0 L634.7,151.9 L636.0,151.6 L637.2,151.0 L638.5,150.1 L639.8,149.1 L641.1,148.0 L642.4,146.9 L643.6,146.1 L644.9,145.8 L646.2,146.0 L647.5,146.8 L648.7,148.1 L650.0,150.0 L651.3,152.1 L652.5,154.3 L653.8,156.1 L655.1,157.4 L656.4,157.7 L657.6,157.1 L658.9,155.4 L660.2,152.8 L661.5,149.6 L662.8,146.2 L664.0,143.0 L665.3,140.4 L666.6,139.0 L667.9,138.9 L669.1,140.2 L670.4,142.9 L671.7,146.7 L673.0,151.0 L674.2,155.3 L675.5,159.1 L676.8,161.9 L678.0,163.2 L679.3,162.8 L680.6,160.8 L681.9,157.4 L683.1,153.1 L684.4,148.4 L685.7,144.0 L687.0,140.3 L688.2,138.0 L689.5,137.2 L690.8,138.0 L692.1,140.2 L693.4,143.6 L694.6,147.7 L695.9,151.8 L697.2,155.5 L698.5,158.3 L699.7,159.9 L701.0,160.2 L702.3,159.2 L703.5,157.2 L704.8,154.4 L706.1,151.3 L707.4,148.4 L708.6,145.9 L709.9,144.2 L711.2,143.4 L712.5,143.5 L713.8,144.4 L715.0,145.9 L716.3,147.6 L717.6,149.4 L718.9,151.0 L720.1,152.3 L721.4,153.0 L722.7,153.3 L724.0,153.0 L725.2,152.5 L726.5,151.7 L727.8,150.9 L729.0,150.2 L730.3,149.5 L731.6,149.1 L732.9,149.0 L734.1,149.0 L735.4,149.1 L736.7,149.3 L738.0,149.6 L739.2,149.8 L740.5,150.0 L741.8,150.1 L743.1,150.1 L744.4,150.1 L745.6,150.1 L746.9,150.1 L748.2,150.0 L749.5,150.0 L750.7,150.0 L752.0,150.0" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="dot" cx="800" cy="150" r="3"/>
+  <text class="mono muted" x="800" y="176" font-size="10" letter-spacing="1.5" text-anchor="end">PBX → SIP → WEBRTC → BROWSER</text>
 </svg>
