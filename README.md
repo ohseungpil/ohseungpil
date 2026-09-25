@@ -1,57 +1,53 @@
-<img src="./assets/header.svg" alt="Philip Oh — Product Engineer, Front-End Architecture" width="100%" />
+<img src="./assets/header.svg" alt="Philip Oh — Product Engineer, front-end architecture for contact center SaaS & AI voice" width="100%" />
 
-## 🙋‍♂️ About
+<p>
+  <a href="https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ohseungpil/">LinkedIn</a> ·
+  <a href="mailto:znak258@gmail.com">Email</a> ·
+  <a href="https://www.instagram.com/oh38538/">Instagram</a>
+</p>
 
-Product Engineer & **UI/UX Unit Leader at Furence Cloud Platform**, designing and building Omni-Channel CRM and Visual IVR–based Contact Center Cloud services from a product perspective.
+I build contact center software for the web — the screens agents live in all day, and the real-time plumbing underneath them.
 
-- 🏗 Multi-tenant SaaS with tenant-based configuration and customization
-- 🧩 Front-End Architecture — Micro-Frontend (Module Federation), Design System, component platform
-- ⚡ Real-time communication — WebSocket · STOMP · SSE
-- 🎙 AI Voice services — cloud recording, meeting analysis and auto-summary
-- 🌏 Call Center CRM Demo & Conference — Tokyo, Osaka (2022–2024)
+I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping multi-tenant SaaS for omni-channel CRM, Visual IVR and AI voice. I started out on the other side of the wire as a CTI system engineer, so I know voice from the PBX all the way up to the browser.
 
-## 📬 Contact
+### Now
 
-[<img height="28" src="./assets/notion-badge.svg" alt="Portfolio on Notion" />][notion]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Mail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][mail]
-[<img height="28" src="./assets/instagram-badge.svg" alt="Instagram" />][instagram]
+- Designing front-end architecture for multi-tenant contact center SaaS — Micro-Frontend, design system, tenant-level customization
+- Bringing AI voice (recording, meeting summaries) into everyday agent workflows
+- Taking our products to Japan — Call Center CRM Demo & Conference, Tokyo · Osaka (2022–2024)
 
-## 🚀 Products I Build
+### Products
 
-| Product | Description |
+| Product | What it does |
 | --- | --- |
-| [Clex 2.0](https://clex.cloud/) | Omni-Channel Contact Center CRM SaaS (Voice · Chat · Email) |
-| [MoAI](https://moai-note.ai/) | AI Voice Notes — meeting audio analysis and auto-summary |
-| [ArSee](https://arsee.ai/) | Visual IVR — ARS menus shown visually on smartphones |
-| [RecSee 4.0](https://recsee.net) | AI Mobile Cloud Recording |
-| [Campaign Cloud](https://campaign.cloud) | Messaging and management platform for large-scale campaigns |
+| [**Clex 2.0**](https://clex.cloud/) | Omni-channel contact center CRM — voice, chat, email |
+| [**ArSee**](https://arsee.ai/) | Visual IVR — ARS menus, on screen |
+| [**MoAI**](https://moai-note.ai/) | AI voice notes and meeting summaries |
+| [**RecSee 4.0**](https://recsee.net) | AI mobile cloud recording |
+| [**Campaign Cloud**](https://campaign.cloud) | Messaging for large-scale campaigns |
 
-## 🛠 Tech Stack
+### Stack
 
-**Front-End**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,redux,webpack&theme=dark" />
-<br/>
-<sub>Zustand · React Query · RTK Query · Module Federation · WebSocket · STOMP · SSE</sub>
+```yaml
+frontend : TypeScript, JavaScript, React, Vue, Next.js
+state    : Redux Toolkit, Zustand, React Query, RTK Query
+arch     : Micro-Frontend (Module Federation), Design System, Multi-Tenant SaaS
+realtime : WebSocket, STOMP, SSE, WebRTC
+voice    : CTI, SIP, Asterisk (AMI), PBX, IVR / Visual IVR, Call Recording
+backend  : Java, Spring Boot, Spring Cloud (Eureka), JPA, QueryDSL, MyBatis
+data     : PostgreSQL, Oracle, MySQL, MSSQL, Redis
+infra    : AWS, NaverCloud, Jenkins, GitLab CI
+```
 
-**Back-End & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis&theme=dark" />
-<br/>
-<sub>Spring Cloud (Eureka) · JPA · QueryDSL · MyBatis · JWT · Oracle · MSSQL</sub>
+### Path
 
-**DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,jenkins,gitlab,gradle,maven,git,idea,postman&theme=dark" />
-<br/>
-<sub>NaverCloud · Jira · Confluence</sub>
+| When | Where | What |
+| --- | --- | --- |
+| 2022 – now | **Furence** | Product Engineer · UI/UX Unit Leader |
+| 2019 – 2021 | **Obigo** | Connected-car infotainment — Toyota / Lexus AVN, Clova AI |
+| 2019 | **XGM** | KB Card next-generation system — DW / ETL |
+| 2016 – 2019 | **Megazone** | eCommerce order & payment, AKMall UI renewal |
+| 2011 – 2013 | **Furence** | System Engineer — CTI, call center infrastructure |
 
-## 📄 Resume
-
-For a detailed overview of my experience and projects, please visit my [Portfolio][notion].
-
-[notion]: https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9
-[linkedin]: https://www.linkedin.com/in/ohseungpil/
-[mail]: mailto:znak258@gmail.com
-[instagram]: https://www.instagram.com/oh38538/
+<sub>Full story → <a href="https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9">Notion portfolio</a></sub>
