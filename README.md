@@ -27,16 +27,57 @@ I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping 
 
 ### Stack
 
-```yaml
-frontend : TypeScript, JavaScript, React, Vue, Next.js
-state    : Redux Toolkit, Zustand, React Query, RTK Query
-arch     : Micro-Frontend (Module Federation), Design System, Multi-Tenant SaaS
-realtime : WebSocket, STOMP, SSE, WebRTC
-voice    : CTI, SIP, Asterisk (AMI), PBX, IVR / Visual IVR, Call Recording
-backend  : Java, Spring Boot, Spring Cloud (Eureka), JPA, QueryDSL, MyBatis
-data     : PostgreSQL, Oracle, MySQL, MSSQL, Redis
-infra    : AWS, NaverCloud, Jenkins, GitLab CI
-```
+**🖥 Front-End**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,redux,webpack&theme=dark" />
+
+- JavaScript (ES6), TypeScript, HTML5, CSS
+- SPA development with React, Vue, Next.js
+- Micro-Frontend Architecture (Webpack Module Federation)
+- State Management — Redux Toolkit, Zustand
+- Data Fetching — React Query, RTK Query
+- Real-time Communication — WebSocket, STOMP, SSE
+- Design System and component platform design
+
+**📞 Voice & Telephony**
+
+- CTI, IVR / Visual IVR, Call Recording
+- SIP, Asterisk (AMI), PBX
+- WebRTC
+
+**🛠 Back-End**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
+
+- Java (Spring Framework, Spring Boot)
+- Microservices Architecture (Spring Cloud, Eureka Service Discovery)
+- ORM (JPA, QueryDSL), Mapper (MyBatis)
+- RESTful API design and JWT-based authentication
+- WebSocket server integration
+
+**🗄 Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+
+- PostgreSQL, Oracle, MySQL, MSSQL, Redis
+- Index optimization, query tuning, ERD design
+
+**⚙ DevOps / Tools**
+
+<img src="https://skillicons.dev/icons?i=npm,yarn,maven,gradle,jenkins,gitlab,idea,webstorm,postman,aws&theme=dark" />
+
+- npm, yarn, Maven, Gradle
+- Jenkins, GitLab CI, TeraStream
+- IntelliJ, WebStorm, Postman
+- AWS, NaverCloud
+
+**🤝 Collaboration**
+
+<img src="https://skillicons.dev/icons?i=git,notion&theme=dark" />
+
+- Git, SVN
+- Notion, Jira, Confluence
+- Zoom
 
 ### Path
 
