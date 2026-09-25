@@ -29,7 +29,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 | [**Clex 2.0**](https://clex.cloud/) | Omni-channel contact center CRM — voice, chat, email |
 | [**ArSee**](https://arsee.ai/) | Visual IVR — ARS menus, on screen |
 | [**MoAI**](https://moai-note.ai/) | AI voice notes and meeting summaries |
-| [**RecSee 4.0**](https://recsee.net) | AI mobile cloud recording |
+| [**RecSee AI**](https://recsee.net) | AI mobile cloud recording |
 | [**Campaign Cloud**](https://campaign.cloud) | Messaging for large-scale campaigns |
 
 ### Domains
