@@ -47,6 +47,9 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,redux,webpack&theme=dark" />
 
+<details>
+<summary>Details</summary>
+
 - JavaScript (ES6), TypeScript, HTML5, CSS
 - SPA development with React, Vue, Next.js
 - Micro-Frontend Architecture (Webpack Module Federation)
@@ -55,17 +58,14 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 - Real-time Communication — WebSocket, STOMP, SSE
 - Design System and component platform design
 
-**📞 Voice & Telephony**
-
-<img src="./assets/stack-voice.svg" />
-
-- CTI, IVR / Visual IVR, Call Recording
-- SIP, Asterisk (AMI), PBX
-- WebRTC
+</details>
 
 **🛠 Back-End**
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
+
+<details>
+<summary>Details</summary>
 
 - Java (Spring Framework, Spring Boot)
 - Microservices Architecture (Spring Cloud, Eureka Service Discovery)
@@ -73,29 +73,59 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 - RESTful API design and JWT-based authentication
 - WebSocket server integration
 
+</details>
+
+**📞 Voice & Telephony**
+
+<img src="./assets/stack-voice.svg" />
+
+<details>
+<summary>Details</summary>
+
+- CTI, IVR / Visual IVR, Call Recording
+- SIP, Asterisk (AMI), PBX
+- WebRTC
+
+</details>
+
 **🗄 Database**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
 
+<details>
+<summary>Details</summary>
+
 - PostgreSQL, Oracle, MySQL, MSSQL, Redis
 - Index optimization, query tuning, ERD design
+
+</details>
 
 **⚙ DevOps / Tools**
 
 <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,maven,gradle,jenkins,gitlab,idea,webstorm,postman,aws&theme=dark" /><img src="./assets/stack-tools.svg" />
+
+<details>
+<summary>Details</summary>
 
 - npm, yarn, pnpm, Maven, Gradle
 - Jenkins, GitLab CI, TeraStream
 - IntelliJ, WebStorm, Cursor, Postman
 - AWS, NaverCloud
 
+</details>
+
 **🤝 Collaboration**
 
-<img src="https://skillicons.dev/icons?i=git,notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,notion&theme=dark" /><img src="./assets/stack-collab.svg" />
+
+<details>
+<summary>Details</summary>
 
 - Git, SVN
-- Notion, Jira, Confluence
+- Notion, Slack, Jira, Confluence
 - Zoom
+
+</details>
 
 ### Path
 
