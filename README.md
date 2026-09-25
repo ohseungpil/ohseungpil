@@ -1,11 +1,14 @@
-<img src="./assets/header.svg" alt="Philip — Front-End Architect & UI/UX Unit Leader" width="100%" />
+<img src="./assets/header.svg" alt="Philip Oh — Product Engineer, Front-End Architecture" width="100%" />
 
 ## 🙋‍♂️ About
 
-- 🎧 Omni-Channel CRM · WebVoice · AI Callbot (Voice, Chat, KakaoTalk, SMS, E-mail)
-- 🧩 Component-driven UI, Micro-Frontend, multi-tenant SaaS architecture
-- ⚡ Real-time in the browser — WebSocket · STOMP · SSE · SIP/WebRTC
-- ☕ 10+ years, full-stack with Java / Spring Boot
+Product Engineer & **UI/UX Unit Leader at Furence Cloud Platform**, designing and building Omni-Channel CRM and Visual IVR–based Contact Center Cloud services from a product perspective.
+
+- 🏗 Multi-tenant SaaS with tenant-based configuration and customization
+- 🧩 Front-End Architecture — Micro-Frontend (Module Federation), Design System, component platform
+- ⚡ Real-time communication — WebSocket · STOMP · SSE
+- 🎙 AI Voice services — cloud recording, meeting analysis and auto-summary
+- 🌏 Call Center CRM Demo & Conference — Tokyo, Osaka (2022–2024)
 
 ## 📬 Contact
 
@@ -14,24 +17,41 @@
 [![Mail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 [<img height="28" src="./assets/instagram-badge.svg" alt="Instagram" />][instagram]
 
+## 🚀 Products I Build
+
+| Product | Description |
+| --- | --- |
+| [Clex 2.0](https://clex.cloud/) | Omni-Channel Contact Center CRM SaaS (Voice · Chat · Email) |
+| [MoAI](https://moai-note.ai/) | AI Voice Notes — meeting audio analysis and auto-summary |
+| [ArSee](https://arsee.ai/) | Visual IVR — ARS menus shown visually on smartphones |
+| [RecSee 4.0](https://recsee.net) | AI Mobile Cloud Recording |
+| [Campaign Cloud](https://campaign.cloud) | Messaging and management platform for large-scale campaigns |
+
 ## 🛠 Tech Stack
 
-**Front-End & Design**
+**Front-End**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js,redux,webpack,vite,figma&theme=dark" />
-
-**Back-End & Infra**
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,redux,webpack&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,nginx,docker&theme=dark" />
+<sub>Zustand · React Query · RTK Query · Module Federation · WebSocket · STOMP · SSE</sub>
 
-**Real-time & Voice** — WebSocket · STOMP · SSE · WebRTC · SIP · Asterisk
+**Back-End & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis&theme=dark" />
+<br/>
+<sub>Spring Cloud (Eureka) · JPA · QueryDSL · MyBatis · JWT · Oracle · MSSQL</sub>
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,jenkins,gitlab,gradle,maven,git,idea,postman&theme=dark" />
+<br/>
+<sub>NaverCloud · Jira · Confluence</sub>
 
 ## 📄 Resume
 
 For a detailed overview of my experience and projects, please visit my [Portfolio][notion].
 
-<!-- 링크는 여기서만 수정하면 됩니다 -->
-[notion]: https://YOUR_NOTION_PAGE.notion.site/
-[linkedin]: https://www.linkedin.com/in/YOUR_LINKEDIN_ID/
-[mail]: mailto:YOUR_EMAIL@gmail.com
-[instagram]: https://www.instagram.com/YOUR_INSTAGRAM_ID/
+[notion]: https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9
+[linkedin]: https://www.linkedin.com/in/ohseungpil/
+[mail]: mailto:znak258@gmail.com
+[instagram]: https://www.instagram.com/oh38538/
