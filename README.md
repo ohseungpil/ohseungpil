@@ -5,15 +5,22 @@
 [![Mail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:znak258@gmail.com)
 [<img height="28" src="./assets/instagram-badge.svg" alt="Instagram" />](https://www.instagram.com/oh38538/)
 
-I build contact center software for the web — the screens agents live in all day, and the real-time plumbing underneath them.
+### About
 
-I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping multi-tenant SaaS for omni-channel CRM, Visual IVR and AI voice. I started out on the other side of the wire as a CTI system engineer, so I know voice from the PBX all the way up to the browser.
+Hi, I'm Philip Oh, a Product Engineer.
 
-### Now
+I lead UI/UX and front-end development at **Furence Cloud Platform**, building contact center cloud services — Omni-Channel CRM and Visual IVR — from a product point of view.
 
-- Designing front-end architecture for multi-tenant contact center SaaS — Micro-Frontend, design system, tenant-level customization
-- Bringing AI voice (recording, meeting summaries) into everyday agent workflows
-- Taking our products to Japan — Call Center CRM Demo & Conference, Tokyo · Osaka, every year since 2022
+My focus is multi-tenant SaaS: one platform that every customer can configure and customize for their own environment, built on a front-end architecture that stays stable and flexible as it grows.
+
+Since 2022, I've presented our products in Japan every year at the Call Center CRM Demo & Conference in Tokyo and Osaka.
+
+### How I Work
+
+- Started as a system engineer and grew into software — I understand both the infrastructure and the code.
+- Put business value and scalability ahead of any single technology.
+- Build for the long run with clean architecture, clean code and reusable components.
+- Grow together as a team through shared knowledge, collaboration and always looking for a better way.
 
 ### Products
 
