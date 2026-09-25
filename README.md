@@ -131,7 +131,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 | When | Where | What |
 | --- | --- | --- |
-| 2022 – now | **Furence** | Product Engineer · UI/UX Unit Leader — Contact Center · AICC |
+| 2022 – now | **Furence** | Product Engineer · UI/UX Team Leader — Contact Center · AICC |
 | 2019 – 2021 | **Obigo** | Software Engineer — Automotive · AVN |
 | 2019 | **XGM** | Software Engineer — Finance |
 | 2016 – 2019 | **Megazone** | Software Engineer — eCommerce |
