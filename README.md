@@ -41,6 +41,8 @@ I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping 
 
 **📞 Voice & Telephony**
 
+<img src="./assets/stack-voice.svg" />
+
 - CTI, IVR / Visual IVR, Call Recording
 - SIP, Asterisk (AMI), PBX
 - WebRTC
@@ -64,11 +66,11 @@ I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping 
 
 **⚙ DevOps / Tools**
 
-<img src="https://skillicons.dev/icons?i=npm,yarn,maven,gradle,jenkins,gitlab,idea,webstorm,postman,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,maven,gradle,jenkins,gitlab,idea,webstorm,postman,aws&theme=dark" /><img src="./assets/stack-tools.svg" />
 
-- npm, yarn, Maven, Gradle
+- npm, yarn, pnpm, Maven, Gradle
 - Jenkins, GitLab CI, TeraStream
-- IntelliJ, WebStorm, Postman
+- IntelliJ, WebStorm, Cursor, Postman
 - AWS, NaverCloud
 
 **🤝 Collaboration**
