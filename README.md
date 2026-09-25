@@ -45,7 +45,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 **🖥 Front-End**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,redux,webpack&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,vue,nextjs,redux,zustand,reactquery,webpack&theme=dark" />
 
 <details>
 <summary>Details</summary>
@@ -62,7 +62,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 **🛠 Back-End**
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,hibernate,querydsl&theme=dark" />
 
 <details>
 <summary>Details</summary>
@@ -90,7 +90,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 **🗄 Database**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,oracle,mysql,sqlserver,redis&theme=dark" />
 
 <details>
 <summary>Details</summary>
@@ -102,7 +102,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 **⚙ DevOps / Tools**
 
-<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,maven,gradle,jenkins,gitlab,idea,webstorm,postman,aws&theme=dark" /><img src="./assets/stack-tools.svg" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=npm,yarn,pnpm,maven,gradle,jenkins,gitlab,idea,webstorm,cursor,postman,aws&theme=dark" /><img src="./assets/stack-tools.svg?v=2" />
 
 <details>
 <summary>Details</summary>
@@ -116,7 +116,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 **🤝 Collaboration**
 
-<img src="https://skillicons.dev/icons?i=git,notion&theme=dark" /><img src="./assets/stack-collab.svg" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,svn,notion,slack,jira,confluence&theme=dark" />
 
 <details>
 <summary>Details</summary>
