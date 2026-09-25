@@ -15,7 +15,7 @@ I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping 
 
 - Designing front-end architecture for multi-tenant contact center SaaS — Micro-Frontend, design system, tenant-level customization
 - Bringing AI voice (recording, meeting summaries) into everyday agent workflows
-- Taking our products to Japan — Call Center CRM Demo & Conference, Tokyo · Osaka (2022–2024)
+- Taking our products to Japan — Call Center CRM Demo & Conference, Tokyo · Osaka, every year since 2022
 
 ### Products
 
