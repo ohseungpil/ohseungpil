@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216.75" height="48" viewBox="0 0 1156 256" fill="none"><g transform="translate(0, 0)"><svg width="256" height="256" viewBox="0 0 256 256" fill="none"><path d="M196 0H60C26.86 0 0 26.86 0 60V196C0 229.14 26.86 256 60 256H196C229.14 256 256 229.14 256 196V60C256 26.86 229.14 0 196 0Z" fill="#242938"/>
+<g transform="translate(36,3) scale(0.72)"><g stroke="#60A5FA" stroke-width="12" stroke-linecap="round" fill="none">
+<path d="M86 78a60 60 0 0 0 0 76"/><path d="M62 58a92 92 0 0 0 0 116"/>
+<path d="M170 78a60 60 0 0 1 0 76"/><path d="M194 58a92 92 0 0 1 0 116"/></g>
+<circle cx="128" cy="116" r="20" fill="#60A5FA"/></g>
+<text x="128" y="218" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#E6EDF3">WebRTC</text></svg></g><g transform="translate(300, 0)"><svg width="256" height="256" viewBox="0 0 256 256" fill="none"><path d="M196 0H60C26.86 0 0 26.86 0 60V196C0 229.14 26.86 256 60 256H196C229.14 256 256 229.14 256 196V60C256 26.86 229.14 0 196 0Z" fill="#242938"/>
+<g stroke="#A78BFA" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M64 88H184"/><path d="M160 64l24 24-24 24"/>
+<path d="M192 144H72"/><path d="M96 120l-24 24 24 24"/></g>
+<text x="128" y="218" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#E6EDF3">SIP</text></svg></g><g transform="translate(600, 0)"><svg width="256" height="256" viewBox="0 0 256 256" fill="none"><path d="M196 0H60C26.86 0 0 26.86 0 60V196C0 229.14 26.86 256 60 256H196C229.14 256 256 229.14 256 196V60C256 26.86 229.14 0 196 0Z" fill="#242938"/>
+<g stroke="#FBBF24" stroke-width="20" stroke-linecap="round">
+<path d="M128 56V176"/><path d="M76 86L180 146"/><path d="M76 146L180 86"/></g>
+<text x="128" y="218" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#E6EDF3">Asterisk</text></svg></g><g transform="translate(900, 0)"><svg width="256" height="256" viewBox="0 0 256 256" fill="none"><path d="M196 0H60C26.86 0 0 26.86 0 60V196C0 229.14 26.86 256 60 256H196C229.14 256 256 229.14 256 196V60C256 26.86 229.14 0 196 0Z" fill="#242938"/>
+<g fill="#2DD4BF" transform="translate(30,-5) scale(0.75)">
+<path d="M92 60c6-6 16-6 21 1l14 20c4 6 3 14-2 19l-10 10c7 16 20 29 36 36l10-10c5-5 13-6 19-2l20 14c7 5 7 15 1 21l-13 13c-10 10-26 12-39 5C113 172 84 143 69 108c-7-13-5-29 5-39z"/></g>
+<text x="128" y="218" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#E6EDF3">PBX</text></svg></g></svg>
