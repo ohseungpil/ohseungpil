@@ -46,7 +46,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 **🖥 Front-End**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,vue,nextjs,redux,zustand,reactquery,webpack&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,vue,nextjs,redux,zustand,reactquery,webpack,vite,storybook&theme=dark" />
 
 <details>
 <summary>Details</summary>
@@ -54,10 +54,11 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 - JavaScript (ES6), TypeScript, HTML5, CSS
 - SPA development with React, Vue, Next.js
 - Micro-Frontend Architecture (Webpack Module Federation)
+- Build tooling — Webpack, Vite
 - State Management — Redux Toolkit, Zustand
 - Data Fetching — React Query, RTK Query
 - Real-time Communication — WebSocket, STOMP, SSE
-- Design System and component platform design
+- Design System and component platform design with Storybook
 
 </details>
 
