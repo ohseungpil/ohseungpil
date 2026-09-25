@@ -1,4 +1,4 @@
-./assets/header.svg?v=2<img src="./assets/header.svg" alt="Philip Oh — Product Engineer, front-end architecture for contact center SaaS & AI voice" width="100%" />
+<img src="./assets/header.svg?v=2" alt="Philip Oh — Product Engineer, front-end architecture for contact center SaaS & AI voice" width="100%" />
 
 [<img height="28" src="./assets/notion-badge.svg" alt="Portfolio on Notion" />](https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohseungpil/)
