@@ -25,6 +25,15 @@ I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping 
 | [**RecSee 4.0**](https://recsee.net) | AI mobile cloud recording |
 | [**Campaign Cloud**](https://campaign.cloud) | Messaging for large-scale campaigns |
 
+### Domains
+
+| Domain | Experience |
+| --- | --- |
+| 🎧 **Contact Center · AICC** | CTI, omni-channel CRM, Visual IVR, AI voice and call recording |
+| 🛒 **eCommerce** | Order, payment and promotions — PG/VAN, L.Pay and Kakao Pay integration, AKMall UI renewal |
+| 💳 **Finance** | KB Card next-generation system — DW data migration, ETL batch, data validation |
+| 🚗 **Automotive · AVN** | Connected-car infotainment HMI for Toyota / Lexus, Clova AI voice web apps |
+
 ### Stack
 
 **🖥 Front-End**
@@ -85,10 +94,10 @@ I lead UI/UX and front-end architecture at **Furence Cloud Platform**, shipping 
 
 | When | Where | What |
 | --- | --- | --- |
-| 2022 – now | **Furence** | Product Engineer · UI/UX Unit Leader |
-| 2019 – 2021 | **Obigo** | Connected-car infotainment — Toyota / Lexus AVN, Clova AI |
-| 2019 | **XGM** | KB Card next-generation system — DW / ETL |
-| 2016 – 2019 | **Megazone** | eCommerce order & payment, AKMall UI renewal |
-| 2011 – 2013 | **Furence** | System Engineer — CTI, call center infrastructure |
+| 2022 – now | **Furence** | Product Engineer · UI/UX Unit Leader — Contact Center · AICC |
+| 2019 – 2021 | **Obigo** | Software Engineer — Automotive · AVN |
+| 2019 | **XGM** | Software Engineer — Finance |
+| 2016 – 2019 | **Megazone** | Software Engineer — eCommerce |
+| 2011 – 2013 | **Furence** | System Engineer — Contact Center · CTI |
 
 <sub>Full story → <a href="https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9">Notion portfolio</a></sub>
