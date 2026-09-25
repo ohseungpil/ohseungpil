@@ -37,9 +37,9 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 | Domain | Experience |
 | --- | --- |
 | 🎧 **Contact Center · AICC** | CTI, omni-channel CRM, Visual IVR, AI voice and call recording |
+| 🚗 **Automotive · AVN** | Connected-car infotainment HMI for Toyota / Lexus, Clova AI voice web apps |
 | 🛒 **eCommerce** | Order, payment and promotions — PG/VAN, L.Pay and Kakao Pay integration, AKMall UI renewal |
 | 💳 **Finance** | KB Card next-generation system — DW data migration, ETL batch, data validation |
-| 🚗 **Automotive · AVN** | Connected-car infotainment HMI for Toyota / Lexus, Clova AI voice web apps |
 
 ### Stack
 
