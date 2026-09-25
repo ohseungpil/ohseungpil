@@ -20,6 +20,7 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 - Started as a system engineer and grew into software — I understand both the infrastructure and the code.
 - Put business value and scalability ahead of any single technology.
 - Build for the long run with clean architecture, clean code and reusable components.
+- Use AI coding agents every day to move faster — while keeping engineering judgment in the loop.
 - Grow together as a team through shared knowledge, collaboration and always looking for a better way.
 
 ### Products
@@ -85,6 +86,20 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 - CTI, IVR / Visual IVR, Call Recording
 - SIP, Asterisk (AMI), PBX
 - WebRTC
+
+</details>
+
+**🤖 AI**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,ollama,cursor&theme=dark" />
+
+<details>
+<summary>Details</summary>
+
+- AI-assisted development with coding agents — Claude (Claude Code), OpenAI Codex, Cursor
+- Local LLM experiments with Ollama (Gemma 4)
+- Front-end lead for AI voice services — meeting summaries (MoAI), AI call recording (RecSee AI)
+- Integration of in-house STT/TTS modules into contact center services
 
 </details>
 
