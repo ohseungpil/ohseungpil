@@ -1,6 +1,6 @@
 <img src="./assets/header.svg?v=2" alt="Philip Oh — Product Engineer, front-end architecture for contact center SaaS & AI voice" width="100%" />
 
-[<img height="28" src="./assets/notion-badge.svg" alt="Portfolio on Notion" />](https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohseungpil/)
 [![Mail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:znak258@gmail.com)
 [<img height="28" src="./assets/instagram-badge.svg" alt="Instagram" />](https://www.instagram.com/oh38538/)
