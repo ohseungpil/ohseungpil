@@ -25,13 +25,13 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 ### Products
 
-| Product | What it does |
-| --- | --- |
-| [**Clex 2.0**](https://clex.cloud/) | Omni-channel contact center CRM — voice, chat, email |
-| [**ArSee**](https://arsee.ai/) | Visual IVR — ARS menus, on screen |
-| [**MoAI**](https://moai-note.ai/) | AI voice notes and meeting summaries |
-| [**RecSee AI**](https://recsee.net) | AI mobile cloud recording |
-| [**Campaign Cloud**](https://campaign.cloud) | Messaging for large-scale campaigns |
+| Product | What it does | My role |
+| --- | --- | --- |
+| [**Clex 2.0**](https://clex.cloud/) | Omni-channel contact center CRM — voice, chat, email | Front-end lead |
+| [**ArSee**](https://arsee.ai/) | Visual IVR — ARS menus, on screen | Full-stack lead — FE & BE design |
+| [**MoAI**](https://moai-note.ai/) | AI voice notes and meeting summaries | Front-end lead |
+| [**RecSee AI**](https://recsee.net) | AI mobile cloud recording | Full-stack lead — FE & BE design |
+| [**Campaign Cloud**](https://campaign.cloud) | Messaging for large-scale campaigns | Front-end lead |
 
 ### Domains
 
@@ -133,10 +133,11 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 | When | Where | What |
 | --- | --- | --- |
-| 2022 – now | **Furence** | Product Engineer · UI/UX Team Leader — Contact Center · AICC |
-| 2019 – 2021 | **Obigo** | Software Engineer — Automotive · AVN |
-| 2019 | **XGM** | Software Engineer — Finance |
-| 2016 – 2019 | **Megazone** | Software Engineer — eCommerce |
+| 2022 – now | **Furence** (rejoined) | Product Engineer · UI/UX Team Leader — Contact Center · AICC |
+| 2019 – 2021 | **Obigo** | Software Engineer (Freelance) — Automotive · AVN |
+| 2019 | **XGM** | Software Engineer (Freelance) — Finance |
+| 2016 – 2019 | **Megazone** | Software Engineer (Freelance) — eCommerce |
+| 2013 – 2016 | **Military Service** | Mandatory military service, followed by a career break |
 | 2011 – 2013 | **Furence** | System Engineer — Contact Center · CTI |
 
 <sub>Full story → <a href="https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9">Notion portfolio</a></sub>
