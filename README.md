@@ -136,7 +136,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 | 2019 – 2021 | **Obigo** | Software Engineer (Freelance) — Automotive · AVN |
 | 2019 | **XGM** | Software Engineer (Freelance) — Finance |
 | 2016 – 2019 | **Megazone** | Software Engineer (Freelance) — eCommerce |
-| 2013 – 2016 | **Military Service** | Mandatory military service, followed by a career break |
+| 2013 – 2016 | **Republic of Korea Navy** | Mandatory military service, followed by a career break |
 | 2011 – 2013 | **Furence** | System Engineer — Contact Center · CTI |
 
 <sub>Full story → <a href="https://dev538.notion.site/Product-Engineer-0fdbe82c984946b1ada5633a6d1758f9">Notion portfolio</a></sub>
