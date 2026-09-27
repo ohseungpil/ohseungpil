@@ -15,21 +15,12 @@ My focus is multi-tenant SaaS: one platform that every customer can configure an
 
 Since 2022, I've exhibited and demoed our products at our booth every year at the Call Center CRM Demo & Conference in Tokyo and Osaka.
 
-### Selected Work
-
-**🧠 Clex 2.0 — memory & re-render refactor across 21 micro-front-end apps** · 2026
-
-- Rebuilt how a launcher and 21 micro-apps read shared state: removed catch-all wrapper hooks so each component subscribes only to what it uses, and eliminated high-frequency re-render sources.
-- Resident memory **−52%** (500–600 MB → 230–300 MB after GC) and pre-GC usage **−66%** (1.0–1.5 GB → 400–450 MB), measured on 5 PCs with the same tenant data.
-- Laid the groundwork for Module Federation: 19 apps converted to MF remotes behind an iframe/MF switch in the launcher.
-- Verified behavior parity with an automated audit of 942 call sites (0 mismatches), strict type checks and full production builds.
-
 ### How I Work
 
 - Started as a system engineer and grew into software — I understand both the infrastructure and the code.
 - Put business value and scalability ahead of any single technology.
 - Build for the long run with clean architecture, clean code and reusable components.
-- Measure before and after — profile with DevTools, fix the root cause, and prove it with numbers.
+- Measure, then fix the root cause — recently cut Clex 2.0's front-end memory use by about half (−52%) by reworking how its micro-apps subscribe to state.
 - Use AI coding agents every day to move faster — while keeping engineering judgment in the loop.
 - Grow together as a team through shared knowledge, collaboration and always looking for a better way.
 
