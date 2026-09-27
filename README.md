@@ -46,7 +46,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 **🖥 Front-End**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,vue,nextjs,redux,zustand,reactquery,webpack,vite,storybook&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,vue,nextjs,redux,zustand,reactquery,webpack,vite,storybook&theme=dark" alt="Front-End stack" />
 
 <details>
 <summary>Details</summary>
@@ -64,7 +64,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 **🛠 Back-End**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,hibernate,querydsl&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,hibernate,querydsl&theme=dark" alt="Back-End stack" />
 
 <details>
 <summary>Details</summary>
@@ -79,7 +79,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 **📞 Voice & Telephony**
 
-<img src="./assets/stack-voice.svg" />
+<img src="./assets/stack-voice.svg" alt="Voice & Telephony stack" />
 
 <details>
 <summary>Details</summary>
@@ -92,12 +92,12 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 **🤖 AI**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,ollama,cursor&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,ollama,cursor&theme=dark" alt="AI stack" />
 
 <details>
 <summary>Details</summary>
 
-- AI-assisted development with coding agents — Claude (Claude Code), OpenAI Codex, Cursor
+- AI-assisted development with coding agents — Claude (Claude Code), OpenAI (ChatGPT, Codex), Cursor
 - Local LLM experiments with Ollama (Gemma 4)
 - Front-end lead for AI voice services — meeting summaries (MoAI), AI call recording (RecSee AI)
 - Integration of in-house STT/TTS modules into contact center services
@@ -106,7 +106,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 **🗄 Database**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,oracle,mysql,sqlserver,redis&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,oracle,mysql,sqlserver,redis&theme=dark" alt="Database stack" />
 
 <details>
 <summary>Details</summary>
@@ -118,13 +118,13 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 **⚙ DevOps**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,jenkins,gitlab,aws&theme=dark" /><img src="./assets/stack-tools.svg?v=2" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,jenkins,gitlab,aws&theme=dark" alt="DevOps stack" /><img src="./assets/stack-tools.svg?v=3" alt="NAVER Cloud" />
 
 <details>
 <summary>Details</summary>
 
-- CI/CD — Jenkins, GitLab CI
-- Cloud — AWS, NaverCloud
+- CI/CD — Jenkins, GitLab CI, NAVER Cloud DevTools (SourceCommit/Build/Deploy/Pipeline)
+- Cloud — AWS, NAVER Cloud
 - Version Control — Git, SVN
 
 </details>
