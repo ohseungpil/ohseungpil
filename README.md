@@ -13,7 +13,7 @@ I lead UI/UX and front-end development at **Furence Cloud Platform**, building c
 
 My focus is multi-tenant SaaS: one platform that every customer can configure and customize for their own environment, built on a front-end architecture that stays stable and flexible as it grows.
 
-Since 2022, I've presented our products in Japan every year at the Call Center CRM Demo & Conference in Tokyo and Osaka.
+Since 2022, I've exhibited and demoed our products at our booth every year at the Call Center CRM Demo & Conference in Tokyo and Osaka.
 
 ### How I Work
 
@@ -116,30 +116,16 @@ Since 2022, I've presented our products in Japan every year at the Call Center C
 
 </details>
 
-**⚙ DevOps / Tools**
+**⚙ DevOps**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=npm,yarn,pnpm,maven,gradle,jenkins,gitlab,idea,webstorm,cursor,postman,aws&theme=dark" /><img src="./assets/stack-tools.svg?v=2" />
-
-<details>
-<summary>Details</summary>
-
-- npm, yarn, pnpm, Maven, Gradle
-- Jenkins, GitLab CI, TeraStream
-- IntelliJ, WebStorm, Cursor, Postman
-- AWS, NaverCloud
-
-</details>
-
-**🤝 Collaboration**
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,svn,notion,slack,jira,confluence&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,jenkins,gitlab,aws&theme=dark" /><img src="./assets/stack-tools.svg?v=2" />
 
 <details>
 <summary>Details</summary>
 
-- Git, SVN
-- Notion, Slack, Jira, Confluence
-- Zoom
+- CI/CD — Jenkins, GitLab CI
+- Cloud — AWS, NaverCloud
+- Version Control — Git, SVN
 
 </details>
 
