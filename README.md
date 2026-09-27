@@ -28,15 +28,15 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 | Product | What it does | My role |
 | --- | --- | --- |
-| [**Clex 2.0**](https://clex.cloud/) | Omni-channel contact center CRM — voice, chat, email | Front-end lead |
-| [**ArSee**](https://arsee.ai/) | Visual IVR — ARS menus, on screen | Full-stack lead — FE & BE design |
-| [**MoAI**](https://moai-note.ai/) | AI voice notes and meeting summaries | Front-end lead |
-| [**RecSee AI**](https://recsee.net) | AI mobile cloud recording | Full-stack lead — FE & BE design |
-| [**Campaign Cloud**](https://campaign.cloud) | Messaging for large-scale campaigns | Front-end lead |
+| [**Clex 2.0**](https://clex.cloud/) | Omni-channel contact center CRM — voice, chat, email | Front-end Leader |
+| [**ArSee**](https://arsee.ai/) | Visual IVR — ARS menus, on screen | Project Leader · Full-stack Developer |
+| [**MoAI**](https://moai-note.ai/) | AI voice notes and meeting summaries | Front-end Leader |
+| [**RecSee AI**](https://recsee.net) | AI mobile cloud recording | Project Leader · Full-stack Developer |
+| [**Campaign Cloud**](https://campaign.cloud) | Messaging for large-scale campaigns | Front-end Leader |
 
-### Domains
+### Domain Experience
 
-| Domain | Experience |
+| Domain | What I worked on |
 | --- | --- |
 | 🎧 **Contact Center · AICC** | CTI, omni-channel CRM, Visual IVR, AI voice and call recording |
 | 🚗 **Automotive · AVN** | Connected-car infotainment HMI for Toyota / Lexus, Clova AI voice web apps |
@@ -118,7 +118,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 </details>
 
-### Path
+### Career
 
 | When | Where | What |
 | --- | --- | --- |
