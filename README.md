@@ -9,7 +9,7 @@
 
 Hi, I'm Philip Oh, a Product Engineer.
 
-I lead UI/UX and front-end development at **Furence Cloud Platform**, building contact center cloud services — Omni-Channel CRM and Visual IVR — from a product point of view.
+I lead the UI/UX team and front-end development at **Furence**, building contact center cloud services — omni-channel CRM and Visual IVR — from a product point of view.
 
 My focus is multi-tenant SaaS: one platform that every customer can configure and customize for their own environment, built on a front-end architecture that stays stable and flexible as it grows.
 
@@ -51,7 +51,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 <details>
 <summary>Details</summary>
 
-- JavaScript (ES6), TypeScript, HTML5, CSS
+- JavaScript, TypeScript, HTML5, CSS
 - SPA development with React, Vue, Next.js
 - Micro-Frontend Architecture (Webpack Module Federation)
 - Build tooling — Webpack, Vite
@@ -99,7 +99,6 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 - AI-assisted development with coding agents — Claude (Claude Code), OpenAI (ChatGPT, Codex), Cursor
 - Local LLM experiments with Ollama (Gemma 4)
-- Front-end lead for AI voice services — meeting summaries (MoAI), AI call recording (RecSee AI)
 - Integration of in-house STT/TTS modules into contact center services
 
 </details>
@@ -133,7 +132,7 @@ Since 2022, I've exhibited and demoed our products at our booth every year at th
 
 | When | Where | What |
 | --- | --- | --- |
-| 2022 – now | **Furence** (rejoined) | Product Engineer · UI/UX Team Leader — Contact Center · AICC |
+| 2022 – Present | **Furence** (rejoined) | Product Engineer · UI/UX Team Lead — Contact Center · AICC |
 | 2019 – 2021 | **Obigo** | Software Engineer (Freelance) — Automotive · AVN |
 | 2019 | **XGM** | Software Engineer (Freelance) — Finance |
 | 2016 – 2019 | **Megazone** | Software Engineer (Freelance) — eCommerce |
